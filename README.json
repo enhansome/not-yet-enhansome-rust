@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Piston has",
+          "description": "based on , but in their words, \"This is very much a work in progress\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T20:54:32Z",
+            "owner": "image-rs",
+            "repo": "imageproc",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Some work has been done to create OpenCV bindings in",
+          "description": "as well as automatically generating bindings like . Neither are very complete.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-06-13T01:21:43Z",
+            "owner": "nebgnahz",
+            "repo": "cv-rs",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DDS library wiki",
+          "description": "and now exist!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:33:21Z",
+            "owner": "Atostek",
+            "repo": "RustDDS",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HDF5 (see also Wikipedia and this Reddit post) A stable version of",
+          "description": "crate has been released and is now available on crates.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-08T08:55:58Z",
+            "owner": "aldanor",
+            "repo": "hdf5-rust",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "A good stream processing pipeline with back pressure doesn't yet exist for an asynchronous data processing pipeline",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "and may be interesting components to use when building this.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-11T07:51:50Z",
+                "owner": "tokio-rs",
+                "repo": "tokio",
+                "stars": 32925
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxRust",
+              "description": "is an older attempt to implement this according to the reactive streams model -- it currently seems closest to this use case.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2015-01-30T15:16:33Z",
+                "owner": "ReactiveX",
+                "repo": "RxRust",
+                "stars": 497
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Data processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Integration with existing mature game engines is poor at time of writing.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Godot Engine",
+              "description": "allows Rust interop via godot-rust. Authors' note on stability:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2025-12-31T11:42:26Z",
+                "owner": "godot-rust",
+                "repo": "gdnative",
+                "stars": 3625
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "No mature game engine written in pure Rust exists yet.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bevy",
+              "description": "is a new project built with the learnings of the Amethyst project. See the roadmap here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-13T01:08:39Z",
+                "owner": "bevyengine",
+                "repo": "bevy",
+                "stars": 47607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fyrox",
+              "description": "is a 3D + 2D game engine which includes a full graphical editor, and an example 3D FPS game built using it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-11T08:48:58Z",
+                "owner": "FyroxEngine",
+                "repo": "Fyrox",
+                "stars": 9500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amethyst is active and has a roadmap for becoming production-ready. Halted development.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2021-12-06T18:23:49Z",
+                "owner": "amethyst",
+                "repo": "amethyst",
+                "stars": 8026
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Game development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sparse matrix libraries (SPRS",
+          "description": "library needs some love, the basics are there but advanced linear algebra is missing)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T02:25:29Z",
+            "owner": "sparsemat",
+            "repo": "sprs",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "A pure Rust implementation. These are required to get math functions on platforms",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The",
+              "description": "crate is a port of functionality from musl and newlib to Rust, with the aim of eventually being merged into .",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2025-04-20T05:20:04Z",
+                "owner": "rust-lang",
+                "repo": "libm",
+                "stars": 640
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Mathematics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Native desktop application integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ability to parse files from Windows machines -- implemented by this person!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-16T16:29:40Z",
+            "owner": "not-yet-awesome-rust",
+            "repo": "not-yet-awesome-rust",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the crate, which uses C bindings -- implemented by @Wanzenbug",
+          "description": "and by @piderman, the latter of which was announced on Reddit. See the PR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-18T11:40:23Z",
+            "owner": "WanzenBug",
+            "repo": "rqrr",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "The data format",
+          "description": "has no parser or emitter libraries yet.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bindings to the Python implementation of beancount",
+              "description": "do not yet exist.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-18T12:28:07Z",
+                "owner": "beancount",
+                "repo": "beancount",
+                "stars": 5893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An implementation of Beancount bindings, parser, and emitter in Rust",
+              "description": "is currently WIP, and contributors have been requested.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-06-10T15:44:57Z",
+                "owner": "twilco",
+                "repo": "beancount",
+                "stars": 88
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Parsers/Emitters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web bindings"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:38:03.756Z",
+    "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
+    "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
+    "enhanced_repository": "enhansome/not-yet-enhansome-rust",
+    "enhanced_repository_description": null,
+    "title": "Not-Yet-Awesome Rust with stars"
+  }
+}
