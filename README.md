@@ -12,14 +12,14 @@ This README is a list with a twofold purpose:
   * The definition of "specific" and "robust" for this list is yet to be determined!
 * Encourage the Rust community to approach gaps in the Rust ecosystem by providing this list as a point of collaboration!
 
-You can jump right into editing this file [here](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/edit/master/README.md) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16. See the [contributing guide](CONTRIBUTING.md) for information on what you can do to help or if you have questions about this list!
+You can jump right into editing this file [here](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/edit/master/README.md) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16. See the [contributing guide](CONTRIBUTING.md) for information on what you can do to help or if you have questions about this list!
 
 ## Issues
 
-[NYAR's issue tracker](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16 can help you get ecosystem gaps filled when you participate in:
+[NYAR's issue tracker](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16 can help you get ecosystem gaps filled when you participate in:
 
 * **Voting** on your favorite issues to let people know you'd use something, optionally **commenting** and explaining your use case.
-* [**Placing bounties**](https://www.bountysource.com/teams/not-yet-awesome-rust/issues) on issues you're particularly passionate about, since issues are where BountySource integrates! We use the [`bounty` tag](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues?q=is%3Aopen+is%3Aissue+label%3Abounty) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16 to indicate which issues have bounties associated.
+* [**Placing bounties**](https://www.bountysource.com/teams/not-yet-awesome-rust/issues) on issues you're particularly passionate about, since issues are where BountySource integrates! We use the [`bounty` tag](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues?q=is%3Aopen+is%3Aissue+label%3Abounty) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16 to indicate which issues have bounties associated.
 
 ## Table of contents
 
@@ -64,25 +64,25 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 ### Stack Overflow
 
 * There are many older Rust questions on Stack Overflow that wouldn't work with today's Rust because of syntax that has changed since the release of 1.0, or that may have better solutions because of other Rust ecosystem developments.
-  * See [#4](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/4) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16 for an SO query and a list of these known issues!
+  * See [#4](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/4) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16 for an SO query and a list of these known issues!
 
 ## ~~Character encodings~~
 
-* ~~Full support for [`cp437`](https://en.wikipedia.org/wiki/Code_page_437) (see [this issue](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/21) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16).~~ Implemented [here](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/40) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16!
+* ~~Full support for [`cp437`](https://en.wikipedia.org/wiki/Code_page_437) (see [this issue](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/21) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16).~~ Implemented [here](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/40) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16!
   * ~~More fully-featured encode/decode libraries like [`encoding`](https://crates.io/crates/encoding) and [`encoding-rs`](https://crates.io/crates/encoding_rs) exist, but don't support this currently.~~
   * ~~A [decode-only library](https://github.com/timglabisch/rust_cp437) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2020-12-30 exists, the development of which seems to have stopped.~~
 
 ## Computer Vision
 
-* Piston has [`imageproc`](https://github.com/PistonDevelopers/imageproc) ⭐ 976 | 🐛 86 | 🌐 Rust | 📅 2026-07-31 based on [`image`](https://github.com/PistonDevelopers/image) ⭐ 5,852 | 🐛 226 | 🌐 Rust | 📅 2026-08-07, but in their words, "This is very much a work in progress".
-* Some work has been done to create OpenCV bindings in [`cv-rs`](https://github.com/nebgnahz/cv-rs) ⭐ 204 | 🐛 19 | 🌐 Rust | 📅 2021-06-13 as well as automatically generating bindings like [`opencv-rust`](https://github.com/kali/opencv-rust/) ⭐ 2,479 | 🐛 17 | 🌐 Rust | 📅 2026-07-31. Neither are very complete.
+* Piston has [`imageproc`](https://github.com/PistonDevelopers/imageproc) ⭐ 976 | 🐛 86 | 🌐 Rust | 📅 2026-07-31 based on [`image`](https://github.com/PistonDevelopers/image) ⭐ 5,854 | 🐛 225 | 🌐 Rust | 📅 2026-08-07, but in their words, "This is very much a work in progress".
+* Some work has been done to create OpenCV bindings in [`cv-rs`](https://github.com/nebgnahz/cv-rs) ⭐ 204 | 🐛 19 | 🌐 Rust | 📅 2021-06-13 as well as automatically generating bindings like [`opencv-rust`](https://github.com/kali/opencv-rust/) ⭐ 2,481 | 🐛 17 | 🌐 Rust | 📅 2026-07-31. Neither are very complete.
 
 ## Data processing
 
-* ~~DDS library [wiki](https://en.wikipedia.org/wiki/Data_Distribution_Service)~~ [`jhelovuo/RustDDS`](https://github.com/jhelovuo/RustDDS) ⭐ 464 | 🐛 26 | 🌐 Rust | 📅 2026-08-11 and [`s2e-systems/dust-dds`](https://github.com/s2e-systems/dust-dds) ⭐ 162 | 🐛 11 | 🌐 Rust | 📅 2026-08-07 now exist!
+* ~~DDS library [wiki](https://en.wikipedia.org/wiki/Data_Distribution_Service)~~ [`jhelovuo/RustDDS`](https://github.com/jhelovuo/RustDDS) ⭐ 464 | 🐛 26 | 🌐 Rust | 📅 2026-08-11 and [`s2e-systems/dust-dds`](https://github.com/s2e-systems/dust-dds) ⭐ 162 | 🐛 13 | 🌐 Rust | 📅 2026-08-07 now exist!
 * ~~[HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format) (see also [Wikipedia](https://support.hdfgroup.org/HDF5/) and [this Reddit post](https://www.reddit.com/r/rust/comments/7r30r3/maintained_crate_for_hdf5_bindings/))~~ A stable version of [`hdf5`](https://github.com/aldanor/hdf5-rust) ⭐ 348 | 🐛 57 | 🌐 Rust | 📅 2024-08-08 crate has been released and is now [available](https://crates.io/crates/hdf5) on crates.io.
 * A good stream processing pipeline with back pressure doesn't yet exist for an asynchronous data processing pipeline
-  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 32,950 | 🐛 424 | 🌐 Rust | 📅 2026-08-17 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,899 | 🐛 273 | 🌐 Rust | 📅 2026-08-11 may be interesting components to use when building this.
+  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 32,959 | 🐛 428 | 🌐 Rust | 📅 2026-08-17 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,900 | 🐛 273 | 🌐 Rust | 📅 2026-08-11 may be interesting components to use when building this.
   * [RxRust](https://github.com/ReactiveX/RxRust) ⭐ 496 | 🐛 3 | 🌐 Rust | 📅 2015-01-30 is an older attempt to implement this according to the [reactive streams](http://www.reactive-streams.org/#the-problem) model -- it currently seems closest to this use case.
   * New features soon to come in Rust like `impl Trait` will probably make developing something like this easier to develop and use.
 * ~~Bindings for [pandoc](https://pandoc.org/)~~ A [`pandoc`](https://crates.io/crates/pandoc) crate now exists with CLI bindings!
@@ -116,8 +116,8 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * [Unreal Engine](https://www.unrealengine.com/) has had [some prior work](https://ejmahler.github.io/rust_in_unreal/) accessible by making an Unreal account, but nothing has been made freely public at time of writing.
   * [Unity3D](https://unity.com/) currently has no published crates for Rust interop.
 * No mature game engine written in pure Rust exists yet.
-  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 47,688 | 🐛 3,392 | 🌐 Rust | 📅 2026-08-19
-  * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,511 | 🐛 59 | 🌐 Rust | 📅 2026-08-18 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,511 | 🐛 59 | 🌐 Rust | 📅 2026-08-18, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 323 | 🐛 10 | 🌐 Rust | 📅 2026-08-11 built using it.
+  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 47,707 | 🐛 3,387 | 🌐 Rust | 📅 2026-08-20
+  * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,513 | 🐛 59 | 🌐 Rust | 📅 2026-08-19 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,513 | 🐛 59 | 🌐 Rust | 📅 2026-08-19, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 323 | 🐛 10 | 🌐 Rust | 📅 2026-08-11 built using it.
   * ~~[Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived is active and [has a roadmap](https://amethyst.rs/roadmap) for becoming production-ready.~~ Halted development.
   * Part of a mature solution will need to include a rich and robust editor. Examples can include:
     * [Unreal Editor](https://docs.unrealengine.com/en-US/Engine/Editor/index.html)
@@ -155,18 +155,18 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ### Networking and Protocols
 
-* ~~[AMQP 1.0](https://www.amqp.org/resources/specifications) - While there are several libraries for AMQP 0.9.1, the AMQP 1.0 spec represents a significant departure from the previous version.~~ [`fe2o3-amqp`](https://github.com/minghuaw/fe2o3-amqp) ⭐ 91 | 🐛 33 | 🌐 Rust | 📅 2026-08-18 implements the AMQP 1.0 protocol for both client side and server/listener side.
+* ~~[AMQP 1.0](https://www.amqp.org/resources/specifications) - While there are several libraries for AMQP 0.9.1, the AMQP 1.0 spec represents a significant departure from the previous version.~~ [`fe2o3-amqp`](https://github.com/minghuaw/fe2o3-amqp) ⭐ 92 | 🐛 33 | 🌐 Rust | 📅 2026-08-18 implements the AMQP 1.0 protocol for both client side and server/listener side.
 
 ### Parsers/Emitters
 
-* ~~Ability to parse `Registry.pol` files from Windows machines~~ -- implemented [by this person!](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/16) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16
-* ~~There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the [`quirc`](https://crates.io/crates/quirc) crate, which uses C bindings~~ -- implemented [by @Wanzenbug](https://github.com/WanzenBug/rqrr) ⭐ 83 | 🐛 12 | 🌐 Rust | 📅 2026-05-18 and [by @piderman](https://github.com/piderman314/bardecoder) ⭐ 292 | 🐛 21 | 🌐 Rust | 📅 2024-02-13, the latter of which was announced on [Reddit](https://www.reddit.com/r/rust/comments/bk7z2x/announcing_bardecoder_a_qr_detector_and_decoder/). See [the PR](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/pull/75) ⭐ 1,423 | 🐛 28 | 📅 2024-12-16.
+* ~~Ability to parse `Registry.pol` files from Windows machines~~ -- implemented [by this person!](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/issues/16) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16
+* ~~There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the [`quirc`](https://crates.io/crates/quirc) crate, which uses C bindings~~ -- implemented [by @Wanzenbug](https://github.com/WanzenBug/rqrr) ⭐ 83 | 🐛 12 | 🌐 Rust | 📅 2026-05-18 and [by @piderman](https://github.com/piderman314/bardecoder) ⭐ 292 | 🐛 21 | 🌐 Rust | 📅 2024-02-13, the latter of which was announced on [Reddit](https://www.reddit.com/r/rust/comments/bk7z2x/announcing_bardecoder_a_qr_detector_and_decoder/). See [the PR](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust/pull/75) ⭐ 1,421 | 🐛 28 | 📅 2024-12-16.
 * Common office document formats are yet to have more mature solutions:
   * Excel/Calc spreadsheet deserialization seems available with [`calamine`](https://crates.io/crates/calamine), but [no serialization libraries seem available](https://crates.io/search?q=office) for them, let alone for the entire XML formats that the Office/OpenOffice suites themselves support.
   * Otherwise, OpenOffice and Microsoft Office
 * There is currently no library to convert between different office document formats.
 * The [`beancount` data format](https://docs.google.com/document/d/1wAMVrKIA2qtRGmoVDSUBJGmYZSygUaR0uOMW1GV3YE0/edit) has no parser or emitter libraries yet.
-  * Bindings to the [Python implementation of beancount](https://github.com/beancount/beancount) ⭐ 5,914 | 🐛 235 | 🌐 Python | 📅 2026-05-18 do not yet exist.
+  * Bindings to the [Python implementation of beancount](https://github.com/beancount/beancount) ⭐ 5,919 | 🐛 235 | 🌐 Python | 📅 2026-05-18 do not yet exist.
   * An [implementation of Beancount bindings, parser, and emitter in Rust](https://github.com/twilco/beancount) ⭐ 88 | 🐛 7 | 🌐 Rust | 📅 2026-06-10 is currently WIP, and contributors have been requested.
   * A builder interface for a higher-level emission API would also be nice.
 * The [RData](https://www.loc.gov/preservation/digital/formats/fdd/fdd000470.shtml) file format does not have a parser or emitter yet.
@@ -183,7 +183,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 ## Rust Toolchain
 
 * A **stable** Rust interpreter does not yet exist, which would made code exploration easier.
-  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,507 | 🐛 180 | 🌐 Rust | 📅 2026-08-18 seems to be a step in the right direction -- it just needs some love!
+  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,509 | 🐛 178 | 🌐 Rust | 📅 2026-08-19 seems to be a step in the right direction -- it just needs some love!
 * No debugging experience offers integration with `rustdoc`, which would
 * A rustdoc backend for generating [zeal](https://zealdocs.org/)/
   [dash](https://kapeli.com/dash) docsets is missing.
@@ -200,7 +200,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ### Google API
 
-* Generation of Google bindings using [`googleapis`](https://github.com/googleapis/googleapis) ⭐ 8,695 | 🐛 51 | 🌐 Starlark | 📅 2026-08-19 and gRPC would be more performant than using JSON web requests to the Google API, as with [`google-apis-rs` service](http://byron.github.io/google-apis-rs/).
+* Generation of Google bindings using [`googleapis`](https://github.com/googleapis/googleapis) ⭐ 8,700 | 🐛 51 | 🌐 Starlark | 📅 2026-08-19 and gRPC would be more performant than using JSON web requests to the Google API, as with [`google-apis-rs` service](http://byron.github.io/google-apis-rs/).
 * There is room for more idiomatic APIs for Google in general. [`google-apis-rs`](http://byron.github.io/google-apis-rs/)  uses the [Google Discovery service](https://developers.google.com/discovery) to expose the vast majority of Google Services, but they can be difficult to grok for beginners or someone unfamiliar with Google APIs in general.
 
 ### XML
@@ -222,4 +222,4 @@ For more feature and performance comparisons for existing Rust XML crates, see [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

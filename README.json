@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Documentation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43258349,
             "language": "Rust",
             "last_commit": "2026-07-31T20:54:32Z",
             "owner": "image-rs",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65942091,
             "language": "Rust",
             "last_commit": "2021-06-13T01:21:43Z",
             "owner": "nebgnahz",
@@ -40,7 +37,7 @@
       "title": "Computer Vision"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313639420,
             "language": "Rust",
             "last_commit": "2026-08-11T23:33:21Z",
             "owner": "Atostek",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36598545,
             "language": "Rust",
             "last_commit": "2024-08-08T08:55:58Z",
             "owner": "aldanor",
@@ -82,11 +81,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 67836789,
                 "language": "Rust",
                 "last_commit": "2026-08-17T19:51:44Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 32950
+                "stars": 32959
               }
             },
             {
@@ -96,6 +96,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 24421997,
                 "language": "Rust",
                 "last_commit": "2015-01-30T15:16:33Z",
                 "owner": "ReactiveX",
@@ -109,7 +110,7 @@
       "title": "Data processing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -123,6 +124,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 87864150,
                 "language": "Rust",
                 "last_commit": "2025-12-31T11:42:26Z",
                 "owner": "godot-rust",
@@ -144,11 +146,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-19T01:41:16Z",
+                "last_commit": "2026-08-20T02:45:58Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47688
+                "stars": 47707
               }
             },
             {
@@ -158,11 +161,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 178597005,
                 "language": "Rust",
-                "last_commit": "2026-08-18T18:26:18Z",
+                "last_commit": "2026-08-19T20:27:40Z",
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9511
+                "stars": 9513
               }
             },
             {
@@ -172,11 +176,12 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 48364554,
                 "language": "Rust",
                 "last_commit": "2021-12-06T18:23:49Z",
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8025
+                "stars": 8024
               }
             }
           ]
@@ -185,7 +190,7 @@
       "title": "Game development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -194,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35778634,
             "language": "Rust",
             "last_commit": "2026-07-28T02:25:29Z",
             "owner": "sparsemat",
@@ -213,6 +219,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 140666750,
                 "language": "Rust",
                 "last_commit": "2025-04-20T05:20:04Z",
                 "owner": "rust-lang",
@@ -226,88 +233,90 @@
       "title": "Mathematics"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Native desktop application integrations"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Ability to parse files from Windows machines -- implemented by this person!",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-16T16:29:40Z",
-            "owner": "not-yet-awesome-rust",
-            "repo": "not-yet-awesome-rust",
-            "stars": 1423
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the crate, which uses C bindings -- implemented by @Wanzenbug",
-          "description": "and by @piderman, the latter of which was announced on Reddit. See the PR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-18T11:40:23Z",
-            "owner": "WanzenBug",
-            "repo": "rqrr",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "The data format",
-          "description": "has no parser or emitter libraries yet.",
           "children": [
             {
               "node_type": "item",
-              "title": "Bindings to the Python implementation of beancount",
-              "description": "do not yet exist.",
+              "title": "Ability to parse files from Windows machines -- implemented by this person!",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-18T12:28:07Z",
-                "owner": "beancount",
-                "repo": "beancount",
-                "stars": 5914
+                "id": 116722714,
+                "language": null,
+                "last_commit": "2024-12-16T16:29:40Z",
+                "owner": "not-yet-awesome-rust",
+                "repo": "not-yet-awesome-rust",
+                "stars": 1421
               }
             },
             {
               "node_type": "item",
-              "title": "An implementation of Beancount bindings, parser, and emitter in Rust",
-              "description": "is currently WIP, and contributors have been requested.",
+              "title": "There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the crate, which uses C bindings -- implemented by @Wanzenbug",
+              "description": "and by @piderman, the latter of which was announced on Reddit. See the PR.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 161654228,
                 "language": "Rust",
-                "last_commit": "2026-06-10T15:44:57Z",
-                "owner": "twilco",
-                "repo": "beancount",
-                "stars": 88
+                "last_commit": "2026-05-18T11:40:23Z",
+                "owner": "WanzenBug",
+                "repo": "rqrr",
+                "stars": 83
               }
+            },
+            {
+              "node_type": "group",
+              "title": "The data format",
+              "description": "has no parser or emitter libraries yet.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Bindings to the Python implementation of beancount",
+                  "description": "do not yet exist.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 266158455,
+                    "language": "Python",
+                    "last_commit": "2026-05-18T12:28:07Z",
+                    "owner": "beancount",
+                    "repo": "beancount",
+                    "stars": 5919
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "An implementation of Beancount bindings, parser, and emitter in Rust",
+                  "description": "is currently WIP, and contributors have been requested.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168258114,
+                    "language": "Rust",
+                    "last_commit": "2026-06-10T15:44:57Z",
+                    "owner": "twilco",
+                    "repo": "beancount",
+                    "stars": 88
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parsers/Emitters"
         }
       ],
-      "title": "Parsers/Emitters"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web bindings"
+      "title": "Native desktop application integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:00:47.114Z",
+    "last_updated": "2026-08-20T03:00:55.697Z",
     "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
+    "original_repository_id": 116722714,
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
     "enhanced_repository": "enhansome/not-yet-enhansome-rust",
     "enhanced_repository_description": null,
