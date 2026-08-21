@@ -15,7 +15,7 @@
             "last_commit": "2026-07-31T20:54:32Z",
             "owner": "image-rs",
             "repo": "imageproc",
-            "stars": 976
+            "stars": 975
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-08-08T08:55:58Z",
             "owner": "aldanor",
             "repo": "hdf5-rust",
-            "stars": 348
+            "stars": 346
           }
         },
         {
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 67836789,
                 "language": "Rust",
-                "last_commit": "2026-08-17T19:51:44Z",
+                "last_commit": "2026-08-20T06:57:25Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 32959
+                "stars": 32969
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-20T02:45:58Z",
+                "last_commit": "2026-08-21T00:13:05Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47707
+                "stars": 47733
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 178597005,
                 "language": "Rust",
-                "last_commit": "2026-08-19T20:27:40Z",
+                "last_commit": "2026-08-20T16:12:30Z",
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9513
+                "stars": 9514
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2021-12-06T18:23:49Z",
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8024
+                "stars": 8025
               }
             }
           ]
@@ -224,7 +224,7 @@
                 "last_commit": "2025-04-20T05:20:04Z",
                 "owner": "rust-lang",
                 "repo": "libm",
-                "stars": 640
+                "stars": 639
               }
             }
           ]
@@ -284,7 +284,7 @@
                     "last_commit": "2026-05-18T12:28:07Z",
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5919
+                    "stars": 5925
                   }
                 },
                 {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:00:55.697Z",
+    "last_updated": "2026-08-21T03:06:29.892Z",
     "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
     "original_repository_id": 116722714,
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
