@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-20T06:57:25Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 32969
+                "stars": 32976
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T00:13:05Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47733
+                "stars": 47765
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-20T16:12:30Z",
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9514
+                "stars": 9515
               }
             },
             {
@@ -204,7 +204,7 @@
             "last_commit": "2026-07-28T02:25:29Z",
             "owner": "sparsemat",
             "repo": "sprs",
-            "stars": 633
+            "stars": 634
           }
         },
         {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-12-16T16:29:40Z",
                 "owner": "not-yet-awesome-rust",
                 "repo": "not-yet-awesome-rust",
-                "stars": 1421
+                "stars": 1422
               }
             },
             {
@@ -284,7 +284,7 @@
                     "last_commit": "2026-05-18T12:28:07Z",
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5925
+                    "stars": 5927
                   }
                 },
                 {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:06:29.892Z",
+    "last_updated": "2026-08-22T02:57:47.372Z",
     "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
     "original_repository_id": 116722714,
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
