@@ -5,6 +5,114 @@
       "items": [
         {
           "node_type": "item",
+          "title": "NYAR's issue tracker",
+          "description": "can help you get ecosystem gaps filled when you participate in:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116722714,
+            "language": null,
+            "last_commit": "2024-12-16T16:29:40Z",
+            "owner": "not-yet-awesome-rust",
+            "repo": "not-yet-awesome-rust",
+            "stars": 1422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Placing bounties",
+          "description": "on issues you're particularly passionate about, since issues are where BountySource integrates! We use the tag to indicate which issues have bounties associated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116722714,
+            "language": null,
+            "last_commit": "2024-12-16T16:29:40Z",
+            "owner": "not-yet-awesome-rust",
+            "repo": "not-yet-awesome-rust",
+            "stars": 1422
+          }
+        }
+      ],
+      "title": "Issues"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "There are many older Rust questions on Stack Overflow that wouldn't work with today's Rust because of syntax that has changed since the release of 1.0, or that may have better solutions because of other Rust ecosystem developments.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "See #4",
+                  "description": "for an SO query and a list of these known issues!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116722714,
+                    "language": null,
+                    "last_commit": "2024-12-16T16:29:40Z",
+                    "owner": "not-yet-awesome-rust",
+                    "repo": "not-yet-awesome-rust",
+                    "stars": 1422
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Stack Overflow"
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Full support for (see this issue).",
+          "description": "Implemented here!",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A decode-only library exists, the development of which seems to have stopped.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59957913,
+                "language": "Rust",
+                "last_commit": "2020-12-30T22:16:25Z",
+                "owner": "timglabisch",
+                "repo": "rust_cp437",
+                "stars": 3
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 116722714,
+            "language": null,
+            "last_commit": "2024-12-16T16:29:40Z",
+            "owner": "not-yet-awesome-rust",
+            "repo": "not-yet-awesome-rust",
+            "stars": 1422
+          }
+        }
+      ],
+      "title": "Character encodings"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Piston has",
           "description": "based on , but in their words, \"This is very much a work in progress\".",
           "children": [],
@@ -56,8 +164,8 @@
         },
         {
           "node_type": "item",
-          "title": "HDF5 (see also Wikipedia and this Reddit post) A stable version of",
-          "description": "crate has been released and is now available on crates.io.",
+          "title": "HDF5 (see also Wikipedia and this Reddit post)",
+          "description": "A stable version of crate has been released and is now available on crates.io.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -76,7 +184,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "tokio",
               "description": "and may be interesting components to use when building this.",
               "children": [],
               "repo_info": {
@@ -86,7 +194,7 @@
                 "last_commit": "2026-08-20T06:57:25Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 32988
+                "stars": 32993
               }
             },
             {
@@ -151,7 +259,7 @@
                 "last_commit": "2026-08-23T23:09:41Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47810
+                "stars": 47822
               }
             },
             {
@@ -171,8 +279,8 @@
             },
             {
               "node_type": "item",
-              "title": "Amethyst is active and has a roadmap for becoming production-ready. Halted development.",
-              "description": null,
+              "title": "Amethyst is active and has a roadmap for becoming production-ready.",
+              "description": "Halted development.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -188,6 +296,48 @@
         }
       ],
       "title": "Game development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Voxel library, operations and representation of voxel data. There is a piston crate",
+          "description": "for rendering voxels but this isn't suitable for working on domains like medical data, more geared towards game development. To enable processing in scientific domains like medicine there needs to be processing functions such as being able to: convert to triangular mesh, thresholding, and morphology. This is because things like MRI data is expressed as voxels, thresholding can separate grey and white matter in the brain, morphology identifies shapes and structures inside the body etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25321332,
+            "language": "Rust",
+            "last_commit": "2021-09-04T21:35:55Z",
+            "owner": "PistonDevelopers",
+            "repo": "gfx_voxel",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Geometry"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "More complete GDAL wrapper (or pure rust alternative). rust-gdal",
+          "description": "is an incomplete wrapper so needs work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18332499,
+            "language": "Rust",
+            "last_commit": "2026-07-06T04:43:22Z",
+            "owner": "georust",
+            "repo": "gdal",
+            "stars": 448
+          }
+        }
+      ],
+      "title": "Geospatial Information Systems"
     },
     {
       "description": null,
@@ -239,6 +389,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AMQP 1.0 - While there are several libraries for AMQP 0.9.1, the AMQP 1.0 spec represents a significant departure from the previous version.",
+              "description": "implements the AMQP 1.0 protocol for both client side and server/listener side.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391214408,
+                "language": "Rust",
+                "last_commit": "2026-08-18T05:25:47Z",
+                "owner": "minghuaw",
+                "repo": "fe2o3-amqp",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking and Protocols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Ability to parse files from Windows machines -- implemented by this person!",
               "description": null,
               "children": [],
@@ -254,8 +426,8 @@
             },
             {
               "node_type": "item",
-              "title": "There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the crate, which uses C bindings -- implemented by @Wanzenbug",
-              "description": "and by @piderman, the latter of which was announced on Reddit. See the PR.",
+              "title": "There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the crate, which uses C bindings",
+              "description": "- implemented by @Wanzenbug and by @piderman, the latter of which was announced on Reddit. See the PR.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -264,7 +436,7 @@
                 "last_commit": "2026-05-18T11:40:23Z",
                 "owner": "WanzenBug",
                 "repo": "rqrr",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -284,7 +456,7 @@
                     "last_commit": "2026-08-23T20:17:45Z",
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5934
+                    "stars": 5937
                   }
                 },
                 {
@@ -311,10 +483,94 @@
         }
       ],
       "title": "Native desktop application integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "A stable Rust interpreter does not yet exist, which would made code exploration easier.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "miri",
+              "description": "seems to be a step in the right direction -- it just needs some love!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46083140,
+                "language": "Rust",
+                "last_commit": "2026-08-24T12:56:00Z",
+                "owner": "rust-lang",
+                "repo": "miri",
+                "stars": 6523
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Rust Toolchain"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "A good reactive UI library complete with event-driven state management comparable to Redux",
+          "description": "does not yet exist.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "carboxyl",
+              "description": "looks like it may be a good fundamental building block for this.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 29390146,
+                "language": "Rust",
+                "last_commit": "2025-01-28T04:45:20Z",
+                "owner": "milibopp",
+                "repo": "carboxyl",
+                "stars": 416
+              }
+            }
+          ]
+        }
+      ],
+      "title": "User Interfaces"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Generation of Google bindings using",
+              "description": "and gRPC would be more performant than using JSON web requests to the Google API, as with service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32887098,
+                "language": "Starlark",
+                "last_commit": "2026-08-24T05:55:10Z",
+                "owner": "googleapis",
+                "repo": "googleapis",
+                "stars": 8711
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google API"
+        }
+      ],
+      "title": "Web bindings"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:07:16.021Z",
+    "last_updated": "2026-08-24T14:11:47.908Z",
     "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
     "original_repository_id": 116722714,
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
