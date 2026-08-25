@@ -116,7 +116,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * [Unreal Engine](https://www.unrealengine.com/) has had [some prior work](https://ejmahler.github.io/rust_in_unreal/) accessible by making an Unreal account, but nothing has been made freely public at time of writing.
   * [Unity3D](https://unity.com/) currently has no published crates for Rust interop.
 * No mature game engine written in pure Rust exists yet.
-  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 47,828 | 🐛 3,422 | 🌐 Rust | 📅 2026-08-25
+  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 47,831 | 🐛 3,417 | 🌐 Rust | 📅 2026-08-25
   * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,524 | 🐛 59 | 🌐 Rust | 📅 2026-08-23 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,524 | 🐛 59 | 🌐 Rust | 📅 2026-08-23, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 320 | 🐛 10 | 🌐 Rust | 📅 2026-08-11 built using it.
   * ~~[Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived is active and [has a roadmap](https://amethyst.rs/roadmap) for becoming production-ready.~~ Halted development.
   * Part of a mature solution will need to include a rich and robust editor. Examples can include:
@@ -183,7 +183,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 ## Rust Toolchain
 
 * A **stable** Rust interpreter does not yet exist, which would made code exploration easier.
-  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,525 | 🐛 179 | 🌐 Rust | 📅 2026-08-24 seems to be a step in the right direction -- it just needs some love!
+  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,526 | 🐛 181 | 🌐 Rust | 📅 2026-08-24 seems to be a step in the right direction -- it just needs some love!
 * No debugging experience offers integration with `rustdoc`, which would
 * A rustdoc backend for generating [zeal](https://zealdocs.org/)/
   [dash](https://kapeli.com/dash) docsets is missing.

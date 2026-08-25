@@ -256,10 +256,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:01:50Z",
+                "last_commit": "2026-08-25T04:17:22Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47828
+                "stars": 47831
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-24T12:56:00Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6525
+                "stars": 6526
               }
             }
           ]
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:02:12.280Z",
+    "last_updated": "2026-08-25T06:03:49.928Z",
     "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
     "original_repository_id": 116722714,
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
