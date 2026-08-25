@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-20T06:57:25Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 32993
+                "stars": 32998
               }
             },
             {
@@ -256,10 +256,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-23T23:09:41Z",
+                "last_commit": "2026-08-25T03:01:50Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47822
+                "stars": 47828
               }
             },
             {
@@ -456,7 +456,7 @@
                     "last_commit": "2026-08-23T20:17:45Z",
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5937
+                    "stars": 5935
                   }
                 },
                 {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-24T12:56:00Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6523
+                "stars": 6525
               }
             }
           ]
@@ -554,10 +554,10 @@
                 "archived": false,
                 "id": 32887098,
                 "language": "Starlark",
-                "last_commit": "2026-08-24T05:55:10Z",
+                "last_commit": "2026-08-24T21:35:47Z",
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8711
+                "stars": 8713
               }
             }
           ],
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:47.908Z",
+    "last_updated": "2026-08-25T03:02:12.280Z",
     "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
     "original_repository_id": 116722714,
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
