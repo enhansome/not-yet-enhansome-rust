@@ -116,7 +116,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * [Unreal Engine](https://www.unrealengine.com/) has had [some prior work](https://ejmahler.github.io/rust_in_unreal/) accessible by making an Unreal account, but nothing has been made freely public at time of writing.
   * [Unity3D](https://unity.com/) currently has no published crates for Rust interop.
 * No mature game engine written in pure Rust exists yet.
-  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 47,898 | 🐛 3,437 | 🌐 Rust | 📅 2026-08-27
+  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 47,899 | 🐛 3,437 | 🌐 Rust | 📅 2026-08-27
   * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,528 | 🐛 59 | 🌐 Rust | 📅 2026-08-23 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,528 | 🐛 59 | 🌐 Rust | 📅 2026-08-23, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 320 | 🐛 10 | 🌐 Rust | 📅 2026-08-11 built using it.
   * ~~[Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived is active and [has a roadmap](https://amethyst.rs/roadmap) for becoming production-ready.~~ Halted development.
   * Part of a mature solution will need to include a rich and robust editor. Examples can include:
@@ -200,7 +200,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ### Google API
 
-* Generation of Google bindings using [`googleapis`](https://github.com/googleapis/googleapis) ⭐ 8,715 | 🐛 51 | 🌐 Starlark | 📅 2026-08-27 and gRPC would be more performant than using JSON web requests to the Google API, as with [`google-apis-rs` service](http://byron.github.io/google-apis-rs/).
+* Generation of Google bindings using [`googleapis`](https://github.com/googleapis/googleapis) ⭐ 8,716 | 🐛 51 | 🌐 Starlark | 📅 2026-08-27 and gRPC would be more performant than using JSON web requests to the Google API, as with [`google-apis-rs` service](http://byron.github.io/google-apis-rs/).
 * There is room for more idiomatic APIs for Google in general. [`google-apis-rs`](http://byron.github.io/google-apis-rs/)  uses the [Google Discovery service](https://developers.google.com/discovery) to expose the vast majority of Google Services, but they can be difficult to grok for beginners or someone unfamiliar with Google APIs in general.
 
 ### XML
