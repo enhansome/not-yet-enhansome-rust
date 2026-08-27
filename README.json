@@ -191,10 +191,10 @@
                 "archived": false,
                 "id": 67836789,
                 "language": "Rust",
-                "last_commit": "2026-08-20T06:57:25Z",
+                "last_commit": "2026-08-27T09:14:39Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33010
+                "stars": 33023
               }
             },
             {
@@ -256,10 +256,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-26T01:16:35Z",
+                "last_commit": "2026-08-27T00:36:18Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47852
+                "stars": 47898
               }
             },
             {
@@ -274,7 +274,7 @@
                 "last_commit": "2026-08-23T14:42:19Z",
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9525
+                "stars": 9528
               }
             },
             {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-28T02:25:29Z",
             "owner": "sparsemat",
             "repo": "sprs",
-            "stars": 634
+            "stars": 635
           }
         },
         {
@@ -374,7 +374,7 @@
                 "last_commit": "2025-04-20T05:20:04Z",
                 "owner": "rust-lang",
                 "repo": "libm",
-                "stars": 639
+                "stars": 640
               }
             }
           ]
@@ -456,7 +456,7 @@
                     "last_commit": "2026-08-23T20:17:45Z",
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5938
+                    "stars": 5943
                   }
                 },
                 {
@@ -501,10 +501,10 @@
                 "archived": false,
                 "id": 46083140,
                 "language": "Rust",
-                "last_commit": "2026-08-25T07:09:32Z",
+                "last_commit": "2026-08-27T07:43:59Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6531
+                "stars": 6536
               }
             }
           ]
@@ -554,7 +554,7 @@
                 "archived": false,
                 "id": 32887098,
                 "language": "Starlark",
-                "last_commit": "2026-08-25T23:40:02Z",
+                "last_commit": "2026-08-27T04:29:45Z",
                 "owner": "googleapis",
                 "repo": "googleapis",
                 "stars": 8715
@@ -570,9 +570,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:09:23.443Z",
-    "original_repository": "not-yet-awesome-rust/not-yet-awesome-rust",
-    "original_repository_id": 116722714,
+    "last_updated": "2026-08-27T12:14:56.694Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 116722714,
+      "language": null,
+      "last_commit": "2024-12-16T16:29:40Z",
+      "owner": "not-yet-awesome-rust",
+      "repo": "not-yet-awesome-rust",
+      "stars": 1422
+    },
     "original_repository_sha": "5c721e4440d871cef77127337d9d4087ed953854",
     "enhanced_repository": "enhansome/not-yet-enhansome-rust",
     "enhanced_repository_description": null,
