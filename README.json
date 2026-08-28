@@ -16,7 +16,8 @@
             "owner": "not-yet-awesome-rust",
             "repo": "not-yet-awesome-rust",
             "stars": 1422
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "not-yet-awesome-rust",
             "repo": "not-yet-awesome-rust",
             "stars": 1422
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         }
       ],
       "title": "Issues"
@@ -59,7 +61,8 @@
                     "owner": "not-yet-awesome-rust",
                     "repo": "not-yet-awesome-rust",
                     "stars": 1422
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:09:34.825Z"
                 }
               ]
             }
@@ -92,7 +95,8 @@
                 "owner": "timglabisch",
                 "repo": "rust_cp437",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ],
           "repo_info": {
@@ -103,7 +107,8 @@
             "owner": "not-yet-awesome-rust",
             "repo": "not-yet-awesome-rust",
             "stars": 1422
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         }
       ],
       "title": "Character encodings"
@@ -124,7 +129,8 @@
             "owner": "image-rs",
             "repo": "imageproc",
             "stars": 975
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         },
         {
           "node_type": "item",
@@ -139,7 +145,8 @@
             "owner": "nebgnahz",
             "repo": "cv-rs",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         }
       ],
       "title": "Computer Vision"
@@ -160,7 +167,8 @@
             "owner": "Atostek",
             "repo": "RustDDS",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         },
         {
           "node_type": "item",
@@ -175,7 +183,8 @@
             "owner": "aldanor",
             "repo": "hdf5-rust",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         },
         {
           "node_type": "group",
@@ -194,8 +203,9 @@
                 "last_commit": "2026-08-27T09:14:39Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33023
-              }
+                "stars": 33027
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             },
             {
               "node_type": "item",
@@ -210,7 +220,8 @@
                 "owner": "ReactiveX",
                 "repo": "RxRust",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ]
         }
@@ -238,7 +249,8 @@
                 "owner": "godot-rust",
                 "repo": "gdnative",
                 "stars": 3624
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ]
         },
@@ -256,11 +268,12 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-27T00:36:18Z",
+                "last_commit": "2026-08-28T07:01:56Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47899
-              }
+                "stars": 47933
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             },
             {
               "node_type": "item",
@@ -271,11 +284,12 @@
                 "archived": false,
                 "id": 178597005,
                 "language": "Rust",
-                "last_commit": "2026-08-23T14:42:19Z",
+                "last_commit": "2026-08-27T19:33:03Z",
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9528
-              }
+                "stars": 9529
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             },
             {
               "node_type": "item",
@@ -290,7 +304,8 @@
                 "owner": "amethyst",
                 "repo": "amethyst",
                 "stars": 8026
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ]
         }
@@ -313,7 +328,8 @@
             "owner": "PistonDevelopers",
             "repo": "gfx_voxel",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         }
       ],
       "title": "Geometry"
@@ -334,7 +350,8 @@
             "owner": "georust",
             "repo": "gdal",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         }
       ],
       "title": "Geospatial Information Systems"
@@ -355,7 +372,8 @@
             "owner": "sparsemat",
             "repo": "sprs",
             "stars": 635
-          }
+          },
+          "first_seen": "2026-08-28T14:09:34.825Z"
         },
         {
           "node_type": "group",
@@ -375,7 +393,8 @@
                 "owner": "rust-lang",
                 "repo": "libm",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ]
         }
@@ -396,11 +415,12 @@
                 "archived": false,
                 "id": 391214408,
                 "language": "Rust",
-                "last_commit": "2026-08-18T05:25:47Z",
+                "last_commit": "2026-08-28T10:33:15Z",
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ],
           "description": null,
@@ -422,7 +442,8 @@
                 "owner": "not-yet-awesome-rust",
                 "repo": "not-yet-awesome-rust",
                 "stars": 1422
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             },
             {
               "node_type": "item",
@@ -437,7 +458,8 @@
                 "owner": "WanzenBug",
                 "repo": "rqrr",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             },
             {
               "node_type": "group",
@@ -456,8 +478,9 @@
                     "last_commit": "2026-08-23T20:17:45Z",
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5943
-                  }
+                    "stars": 5948
+                  },
+                  "first_seen": "2026-08-28T14:09:34.825Z"
                 },
                 {
                   "node_type": "item",
@@ -472,7 +495,8 @@
                     "owner": "twilco",
                     "repo": "beancount",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:09:34.825Z"
                 }
               ]
             }
@@ -501,11 +525,12 @@
                 "archived": false,
                 "id": 46083140,
                 "language": "Rust",
-                "last_commit": "2026-08-27T07:43:59Z",
+                "last_commit": "2026-08-28T11:27:23Z",
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6536
-              }
+                "stars": 6537
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ]
         }
@@ -533,7 +558,8 @@
                 "owner": "milibopp",
                 "repo": "carboxyl",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ]
         }
@@ -554,11 +580,12 @@
                 "archived": false,
                 "id": 32887098,
                 "language": "Starlark",
-                "last_commit": "2026-08-27T04:29:45Z",
+                "last_commit": "2026-08-27T22:52:50Z",
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8716
-              }
+                "stars": 8719
+              },
+              "first_seen": "2026-08-28T14:09:34.825Z"
             }
           ],
           "description": null,
@@ -570,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:37:10.224Z",
+    "last_updated": "2026-08-28T14:09:34.825Z",
     "original_repository_info": {
       "archived": false,
       "id": 116722714,
