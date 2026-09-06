@@ -303,11 +303,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-04T15:59:56Z",
-                "open_issues": 445,
+                "last_commit": "2026-09-05T08:51:10Z",
+                "open_issues": 450,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33070,
+                "stars": 33079,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -396,10 +396,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T06:06:32Z",
-                "open_issues": 3437,
+                "open_issues": 3441,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48048,
+                "stars": 48059,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -423,11 +423,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-04T17:02:38Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-05T19:49:51Z",
+                "open_issues": 58,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9541,
+                "stars": 9542,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -459,7 +459,7 @@
                 "open_issues": 0,
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8025,
+                "stars": 8026,
                 "topics": [
                   "engine",
                   "game-engine",
@@ -704,10 +704,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-08-23T20:17:45Z",
-                    "open_issues": 238,
+                    "open_issues": 239,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 5968,
+                    "stars": 5973,
                     "topics": [
                       "beancount"
                     ]
@@ -769,11 +769,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T04:36:52Z",
-                "open_issues": 183,
+                "last_commit": "2026-09-06T04:34:12Z",
+                "open_issues": 182,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6555,
+                "stars": 6559,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -838,7 +838,7 @@
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8732,
+                "stars": 8731,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -855,7 +855,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:48:40.216Z",
+    "last_updated": "2026-09-06T06:58:50.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
