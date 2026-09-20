@@ -205,7 +205,7 @@
             "open_issues": 87,
             "owner": "image-rs",
             "repo": "imageproc",
-            "stars": 979,
+            "stars": 980,
             "topics": [
               "image-processing",
               "imageproc",
@@ -307,7 +307,7 @@
                 "open_issues": 447,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33173,
+                "stars": 33186,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -395,11 +395,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T01:39:36Z",
-                "open_issues": 3422,
+                "last_commit": "2026-09-19T19:28:15Z",
+                "open_issues": 3426,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48272,
+                "stars": 48290,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -423,11 +423,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-18T18:20:01Z",
+                "last_commit": "2026-09-19T09:08:33Z",
                 "open_issues": 58,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9556,
+                "stars": 9559,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -459,7 +459,7 @@
                 "open_issues": 0,
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8030,
+                "stars": 8031,
                 "topics": [
                   "engine",
                   "game-engine",
@@ -521,7 +521,7 @@
             "open_issues": 63,
             "owner": "georust",
             "repo": "gdal",
-            "stars": 450,
+            "stars": 452,
             "topics": [
               "gdal",
               "geospatial",
@@ -611,7 +611,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-13T14:42:01Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
                 "stars": 94,
@@ -707,7 +707,7 @@
                     "open_issues": 238,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6012,
+                    "stars": 6015,
                     "topics": [
                       "beancount"
                     ]
@@ -769,11 +769,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T06:47:20Z",
-                "open_issues": 186,
+                "last_commit": "2026-09-20T04:36:30Z",
+                "open_issues": 190,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6597,
+                "stars": 6599,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -838,7 +838,7 @@
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8762,
+                "stars": 8766,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -855,7 +855,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:10:14.272Z",
+    "last_updated": "2026-09-20T07:35:35.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
