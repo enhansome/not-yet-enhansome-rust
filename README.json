@@ -205,7 +205,7 @@
             "open_issues": 88,
             "owner": "image-rs",
             "repo": "imageproc",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "image-processing",
               "imageproc",
@@ -303,11 +303,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-29T05:19:50Z",
-                "open_issues": 445,
+                "last_commit": "2026-09-30T05:25:20Z",
+                "open_issues": 443,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33277,
+                "stars": 33288,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -395,11 +395,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T03:50:46Z",
-                "open_issues": 3429,
+                "last_commit": "2026-09-29T20:28:40Z",
+                "open_issues": 3435,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48461,
+                "stars": 48493,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -424,10 +424,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-27T07:33:20Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9569,
+                "stars": 9571,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -521,7 +521,7 @@
             "open_issues": 63,
             "owner": "georust",
             "repo": "gdal",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "gdal",
               "geospatial",
@@ -704,10 +704,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-08-23T20:17:45Z",
-                    "open_issues": 241,
+                    "open_issues": 243,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6040,
+                    "stars": 6039,
                     "topics": [
                       "beancount"
                     ]
@@ -769,11 +769,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T06:26:28Z",
-                "open_issues": 196,
+                "last_commit": "2026-09-30T08:02:51Z",
+                "open_issues": 197,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6624,
+                "stars": 6627,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -834,7 +834,7 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T00:53:54Z",
+                "last_commit": "2026-09-30T02:49:48Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
@@ -855,7 +855,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:07:25.914Z",
+    "last_updated": "2026-09-30T08:12:21.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
