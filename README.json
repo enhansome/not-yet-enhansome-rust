@@ -5,181 +5,22 @@
       "items": [
         {
           "node_type": "item",
-          "title": "NYAR's issue tracker",
-          "description": "can help you get ecosystem gaps filled when you participate in:",
+          "title": "A decode-only library exists, the development of which seems to have stopped.",
+          "description": "timglabisch/rust_cp437",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
+            "description": "cp437 encoding for rust",
             "homepage": null,
-            "id": 116722714,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2024-12-16T16:29:40Z",
-            "open_issues": 28,
-            "owner": "not-yet-awesome-rust",
-            "repo": "not-yet-awesome-rust",
-            "stars": 1422,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "awesome-sauce",
-              "community",
-              "planning",
-              "rust",
-              "rust-lang",
-              "rust-language",
-              "rust-library",
-              "rustlang"
-            ]
-          },
-          "first_seen": "2026-08-28T14:09:34.825Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Placing bounties",
-          "description": "on issues you're particularly passionate about, since issues are where BountySource integrates! We use the tag to indicate which issues have bounties associated.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
-            "homepage": null,
-            "id": 116722714,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2024-12-16T16:29:40Z",
-            "open_issues": 28,
-            "owner": "not-yet-awesome-rust",
-            "repo": "not-yet-awesome-rust",
-            "stars": 1422,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "awesome-sauce",
-              "community",
-              "planning",
-              "rust",
-              "rust-lang",
-              "rust-language",
-              "rust-library",
-              "rustlang"
-            ]
-          },
-          "first_seen": "2026-08-28T14:09:34.825Z"
-        }
-      ],
-      "title": "Issues"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "group",
-              "title": "There are many older Rust questions on Stack Overflow that wouldn't work with today's Rust because of syntax that has changed since the release of 1.0, or that may have better solutions because of other Rust ecosystem developments.",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "See #4",
-                  "description": "for an SO query and a list of these known issues!",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
-                    "homepage": null,
-                    "id": 116722714,
-                    "language": null,
-                    "license": "Unlicense",
-                    "last_commit": "2024-12-16T16:29:40Z",
-                    "open_issues": 28,
-                    "owner": "not-yet-awesome-rust",
-                    "repo": "not-yet-awesome-rust",
-                    "stars": 1422,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "awesome-lists",
-                      "awesome-sauce",
-                      "community",
-                      "planning",
-                      "rust",
-                      "rust-lang",
-                      "rust-language",
-                      "rust-library",
-                      "rustlang"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T14:09:34.825Z"
-                }
-              ]
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Stack Overflow"
-        }
-      ],
-      "title": "Documentation"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Full support for (see this issue).",
-          "description": "Implemented here!",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "A decode-only library exists, the development of which seems to have stopped.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "cp437 encoding for rust",
-                "homepage": null,
-                "id": 59957913,
-                "language": "Rust",
-                "license": null,
-                "last_commit": "2020-12-30T22:16:25Z",
-                "open_issues": 0,
-                "owner": "timglabisch",
-                "repo": "rust_cp437",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:09:34.825Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
-            "homepage": null,
-            "id": 116722714,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2024-12-16T16:29:40Z",
-            "open_issues": 28,
-            "owner": "not-yet-awesome-rust",
-            "repo": "not-yet-awesome-rust",
-            "stars": 1422,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "awesome-sauce",
-              "community",
-              "planning",
-              "rust",
-              "rust-lang",
-              "rust-language",
-              "rust-library",
-              "rustlang"
-            ]
+            "id": 59957913,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2020-12-30T22:16:25Z",
+            "open_issues": 0,
+            "owner": "timglabisch",
+            "repo": "rust_cp437",
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:09:34.825Z"
         }
@@ -254,7 +95,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T13:06:52Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "Atostek",
             "repo": "RustDDS",
             "stars": 465,
@@ -303,11 +144,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-30T20:52:31Z",
-                "open_issues": 445,
+                "last_commit": "2026-10-02T22:54:28Z",
+                "open_issues": 467,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33301,
+                "stars": 33307,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -366,7 +207,7 @@
                 "open_issues": 0,
                 "owner": "godot-rust",
                 "repo": "gdnative",
-                "stars": 3620,
+                "stars": 3619,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -395,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:55:10Z",
-                "open_issues": 3441,
+                "last_commit": "2026-10-03T01:34:45Z",
+                "open_issues": 3444,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48538,
+                "stars": 48558,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -459,7 +300,7 @@
                 "open_issues": 0,
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8032,
+                "stars": 8033,
                 "topics": [
                   "engine",
                   "game-engine",
@@ -610,8 +451,8 @@
                 "id": 391214408,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:49:47Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-02T10:36:38Z",
+                "open_issues": 38,
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
                 "stars": 95,
@@ -632,39 +473,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Ability to parse files from Windows machines -- implemented by this person!",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
-                "homepage": null,
-                "id": 116722714,
-                "language": null,
-                "license": "Unlicense",
-                "last_commit": "2024-12-16T16:29:40Z",
-                "open_issues": 28,
-                "owner": "not-yet-awesome-rust",
-                "repo": "not-yet-awesome-rust",
-                "stars": 1422,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-lists",
-                  "awesome-sauce",
-                  "community",
-                  "planning",
-                  "rust",
-                  "rust-lang",
-                  "rust-language",
-                  "rust-library",
-                  "rustlang"
-                ]
-              },
-              "first_seen": "2026-08-28T14:09:34.825Z"
-            },
             {
               "node_type": "item",
               "title": "There is no pure-Rust solution for QR decoding. The only other crate that handles QR decoding is the crate, which uses C bindings",
@@ -707,7 +515,7 @@
                     "open_issues": 244,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6042,
+                    "stars": 6043,
                     "topics": [
                       "beancount"
                     ]
@@ -769,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:23:54Z",
-                "open_issues": 194,
+                "last_commit": "2026-10-03T04:38:08Z",
+                "open_issues": 193,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6632,
+                "stars": 6636,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -834,11 +642,11 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:21:27Z",
+                "last_commit": "2026-10-02T18:22:25Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8766,
+                "stars": 8765,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -855,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:10:42.678Z",
+    "last_updated": "2026-10-03T05:17:47.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
