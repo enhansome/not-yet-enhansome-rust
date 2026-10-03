@@ -240,7 +240,7 @@
                 "open_issues": 3444,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48558,
+                "stars": 48560,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,7 +264,7 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:18:23Z",
+                "last_commit": "2026-10-03T07:36:14Z",
                 "open_issues": 59,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
@@ -577,8 +577,8 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:38:08Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-03T06:19:05Z",
+                "open_issues": 192,
                 "owner": "rust-lang",
                 "repo": "miri",
                 "stars": 6636,
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:47.794Z",
+    "last_updated": "2026-10-03T07:48:27.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
