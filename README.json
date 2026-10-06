@@ -148,7 +148,7 @@
                 "open_issues": 454,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33342,
+                "stars": 33344,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T08:41:18Z",
-                "open_issues": 3425,
+                "last_commit": "2026-10-06T09:15:10Z",
+                "open_issues": 3424,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48647,
+                "stars": 48650,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -577,8 +577,8 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:44:15Z",
-                "open_issues": 192,
+                "last_commit": "2026-10-06T10:00:13Z",
+                "open_issues": 193,
                 "owner": "rust-lang",
                 "repo": "miri",
                 "stars": 6639,
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:45:25.666Z",
+    "last_updated": "2026-10-06T11:10:12.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",

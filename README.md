@@ -82,7 +82,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 * ~~DDS library [wiki](https://en.wikipedia.org/wiki/Data_Distribution_Service)~~ [`jhelovuo/RustDDS`](https://github.com/jhelovuo/RustDDS) ⭐ 465 | 🐛 27 | 🌐 Rust | 📅 2026-09-21 and [`s2e-systems/dust-dds`](https://github.com/s2e-systems/dust-dds) ⭐ 165 | 🐛 13 | 🌐 Rust | 📅 2026-10-02 now exist!
 * ~~[HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format) (see also [Wikipedia](https://support.hdfgroup.org/HDF5/) and [this Reddit post](https://www.reddit.com/r/rust/comments/7r30r3/maintained_crate_for_hdf5_bindings/))~~ A stable version of [`hdf5`](https://github.com/aldanor/hdf5-rust) ⭐ 347 | 🐛 57 | 🌐 Rust | 📅 2024-08-08 crate has been released and is now [available](https://crates.io/crates/hdf5) on crates.io.
 * A good stream processing pipeline with back pressure doesn't yet exist for an asynchronous data processing pipeline
-  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 33,342 | 🐛 454 | 🌐 Rust | 📅 2026-10-04 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,932 | 🐛 280 | 🌐 Rust | 📅 2026-10-01 may be interesting components to use when building this.
+  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 33,344 | 🐛 454 | 🌐 Rust | 📅 2026-10-04 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,932 | 🐛 280 | 🌐 Rust | 📅 2026-10-01 may be interesting components to use when building this.
   * [RxRust](https://github.com/ReactiveX/RxRust) ⭐ 495 | 🐛 3 | 🌐 Rust | 📅 2015-01-30 is an older attempt to implement this according to the [reactive streams](http://www.reactive-streams.org/#the-problem) model -- it currently seems closest to this use case.
   * New features soon to come in Rust like `impl Trait` will probably make developing something like this easier to develop and use.
 * ~~Bindings for [pandoc](https://pandoc.org/)~~ A [`pandoc`](https://crates.io/crates/pandoc) crate now exists with CLI bindings!
@@ -116,7 +116,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * [Unreal Engine](https://www.unrealengine.com/) has had [some prior work](https://ejmahler.github.io/rust_in_unreal/) accessible by making an Unreal account, but nothing has been made freely public at time of writing.
   * [Unity3D](https://unity.com/) currently has no published crates for Rust interop.
 * No mature game engine written in pure Rust exists yet.
-  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 48,647 | 🐛 3,425 | 🌐 Rust | 📅 2026-10-06
+  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 48,650 | 🐛 3,424 | 🌐 Rust | 📅 2026-10-06
   * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,575 | 🐛 59 | 🌐 Rust | 📅 2026-10-05 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,575 | 🐛 59 | 🌐 Rust | 📅 2026-10-05, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 323 | 🐛 10 | 🌐 Rust | 📅 2026-09-08 built using it.
   * ~~[Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived is active and [has a roadmap](https://amethyst.rs/roadmap) for becoming production-ready.~~ Halted development.
   * Part of a mature solution will need to include a rich and robust editor. Examples can include:
@@ -183,7 +183,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 ## Rust Toolchain
 
 * A **stable** Rust interpreter does not yet exist, which would made code exploration easier.
-  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,639 | 🐛 192 | 🌐 Rust | 📅 2026-10-05 seems to be a step in the right direction -- it just needs some love!
+  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,639 | 🐛 193 | 🌐 Rust | 📅 2026-10-06 seems to be a step in the right direction -- it just needs some love!
 * No debugging experience offers integration with `rustdoc`, which would
 * A rustdoc backend for generating [zeal](https://zealdocs.org/)/
   [dash](https://kapeli.com/dash) docsets is missing.
