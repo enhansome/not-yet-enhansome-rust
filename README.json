@@ -145,10 +145,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-07T06:18:13Z",
-                "open_issues": 462,
+                "open_issues": 464,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33356,
+                "stars": 33361,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T04:36:35Z",
-                "open_issues": 3433,
+                "last_commit": "2026-10-09T07:16:48Z",
+                "open_issues": 3440,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48691,
+                "stars": 48750,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,11 +264,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-08T06:30:05Z",
+                "last_commit": "2026-10-08T18:46:44Z",
                 "open_issues": 59,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9579,
+                "stars": 9577,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -300,7 +300,7 @@
                 "open_issues": 0,
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8033,
+                "stars": 8034,
                 "topics": [
                   "engine",
                   "game-engine",
@@ -394,7 +394,7 @@
             "open_issues": 48,
             "owner": "sparsemat",
             "repo": "sprs",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "rust-library",
               "sparse-linear-systems",
@@ -451,8 +451,8 @@
                 "id": 391214408,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-07T17:10:58Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-09T03:16:10Z",
+                "open_issues": 46,
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
                 "stars": 95,
@@ -512,10 +512,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-08-23T20:17:45Z",
-                    "open_issues": 246,
+                    "open_issues": 247,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6056,
+                    "stars": 6059,
                     "topics": [
                       "beancount"
                     ]
@@ -577,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T20:49:51Z",
-                "open_issues": 194,
+                "last_commit": "2026-10-09T06:45:19Z",
+                "open_issues": 195,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6645,
+                "stars": 6648,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -642,7 +642,7 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T22:46:18Z",
+                "last_commit": "2026-10-09T06:04:34Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:36:23.624Z",
+    "last_updated": "2026-10-09T08:41:39.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
