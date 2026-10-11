@@ -74,15 +74,15 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ## Computer Vision
 
-* Piston has [`imageproc`](https://github.com/PistonDevelopers/imageproc) ⭐ 983 | 🐛 81 | 🌐 Rust | 📅 2026-10-01 based on [`image`](https://github.com/PistonDevelopers/image) ⭐ 5,887 | 🐛 234 | 🌐 Rust | 📅 2026-09-15, but in their words, "This is very much a work in progress".
-* Some work has been done to create OpenCV bindings in [`cv-rs`](https://github.com/nebgnahz/cv-rs) ⭐ 203 | 🐛 19 | 🌐 Rust | 📅 2021-06-13 as well as automatically generating bindings like [`opencv-rust`](https://github.com/kali/opencv-rust/) ⭐ 2,495 | 🐛 16 | 🌐 Rust | 📅 2026-10-09. Neither are very complete.
+* Piston has [`imageproc`](https://github.com/PistonDevelopers/imageproc) ⭐ 983 | 🐛 81 | 🌐 Rust | 📅 2026-10-01 based on [`image`](https://github.com/PistonDevelopers/image) ⭐ 5,887 | 🐛 233 | 🌐 Rust | 📅 2026-09-15, but in their words, "This is very much a work in progress".
+* Some work has been done to create OpenCV bindings in [`cv-rs`](https://github.com/nebgnahz/cv-rs) ⭐ 203 | 🐛 19 | 🌐 Rust | 📅 2021-06-13 as well as automatically generating bindings like [`opencv-rust`](https://github.com/kali/opencv-rust/) ⭐ 2,496 | 🐛 16 | 🌐 Rust | 📅 2026-10-09. Neither are very complete.
 
 ## Data processing
 
-* ~~DDS library [wiki](https://en.wikipedia.org/wiki/Data_Distribution_Service)~~ [`jhelovuo/RustDDS`](https://github.com/jhelovuo/RustDDS) ⭐ 465 | 🐛 27 | 🌐 Rust | 📅 2026-09-21 and [`s2e-systems/dust-dds`](https://github.com/s2e-systems/dust-dds) ⭐ 166 | 🐛 15 | 🌐 Rust | 📅 2026-10-09 now exist!
+* ~~DDS library [wiki](https://en.wikipedia.org/wiki/Data_Distribution_Service)~~ [`jhelovuo/RustDDS`](https://github.com/jhelovuo/RustDDS) ⭐ 465 | 🐛 27 | 🌐 Rust | 📅 2026-09-21 and [`s2e-systems/dust-dds`](https://github.com/s2e-systems/dust-dds) ⭐ 166 | 🐛 16 | 🌐 Rust | 📅 2026-10-10 now exist!
 * ~~[HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format) (see also [Wikipedia](https://support.hdfgroup.org/HDF5/) and [this Reddit post](https://www.reddit.com/r/rust/comments/7r30r3/maintained_crate_for_hdf5_bindings/))~~ A stable version of [`hdf5`](https://github.com/aldanor/hdf5-rust) ⭐ 347 | 🐛 57 | 🌐 Rust | 📅 2024-08-08 crate has been released and is now [available](https://crates.io/crates/hdf5) on crates.io.
 * A good stream processing pipeline with back pressure doesn't yet exist for an asynchronous data processing pipeline
-  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 33,408 | 🐛 455 | 🌐 Rust | 📅 2026-10-09 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,932 | 🐛 281 | 🌐 Rust | 📅 2026-10-01 may be interesting components to use when building this.
+  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 33,410 | 🐛 448 | 🌐 Rust | 📅 2026-10-11 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,932 | 🐛 280 | 🌐 Rust | 📅 2026-10-01 may be interesting components to use when building this.
   * [RxRust](https://github.com/ReactiveX/RxRust) ⭐ 495 | 🐛 3 | 🌐 Rust | 📅 2015-01-30 is an older attempt to implement this according to the [reactive streams](http://www.reactive-streams.org/#the-problem) model -- it currently seems closest to this use case.
   * New features soon to come in Rust like `impl Trait` will probably make developing something like this easier to develop and use.
 * ~~Bindings for [pandoc](https://pandoc.org/)~~ A [`pandoc`](https://crates.io/crates/pandoc) crate now exists with CLI bindings!
@@ -116,8 +116,8 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * [Unreal Engine](https://www.unrealengine.com/) has had [some prior work](https://ejmahler.github.io/rust_in_unreal/) accessible by making an Unreal account, but nothing has been made freely public at time of writing.
   * [Unity3D](https://unity.com/) currently has no published crates for Rust interop.
 * No mature game engine written in pure Rust exists yet.
-  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 48,821 | 🐛 3,458 | 🌐 Rust | 📅 2026-10-10
-  * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,580 | 🐛 59 | 🌐 Rust | 📅 2026-10-09 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,580 | 🐛 59 | 🌐 Rust | 📅 2026-10-09, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 323 | 🐛 10 | 🌐 Rust | 📅 2026-09-08 built using it.
+  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 48,859 | 🐛 3,465 | 🌐 Rust | 📅 2026-10-11
+  * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,584 | 🐛 59 | 🌐 Rust | 📅 2026-10-10 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,584 | 🐛 59 | 🌐 Rust | 📅 2026-10-10, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 323 | 🐛 10 | 🌐 Rust | 📅 2026-09-08 built using it.
   * ~~[Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived is active and [has a roadmap](https://amethyst.rs/roadmap) for becoming production-ready.~~ Halted development.
   * Part of a mature solution will need to include a rich and robust editor. Examples can include:
     * [Unreal Editor](https://docs.unrealengine.com/en-US/Engine/Editor/index.html)
@@ -125,12 +125,12 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ## Geometry
 
-* Voxel library, operations and representation of voxel data. There is [a piston crate](https://github.com/PistonDevelopers/gfx_voxel) ⭐ 14 | 🐛 8 | 🌐 Rust | 📅 2021-09-04 for rendering voxels but this isn't suitable for working on domains like medical data, more geared towards game development. To enable processing in scientific domains like medicine there needs to be processing functions such as being able to: convert to triangular mesh, thresholding, and morphology. This is because things like MRI data is expressed as voxels, thresholding can separate grey and white matter in the brain, morphology identifies shapes and structures inside the body etc.
+* Voxel library, operations and representation of voxel data. There is [a piston crate](https://github.com/PistonDevelopers/gfx_voxel) ⭐ 14 | 🐛 8 | 🌐 Rust | 📅 2026-10-11 for rendering voxels but this isn't suitable for working on domains like medical data, more geared towards game development. To enable processing in scientific domains like medicine there needs to be processing functions such as being able to: convert to triangular mesh, thresholding, and morphology. This is because things like MRI data is expressed as voxels, thresholding can separate grey and white matter in the brain, morphology identifies shapes and structures inside the body etc.
 * [PCL](http://pointclouds.org/) equivalent - point clouds, essential 3D geometry functions
 
 ## Geospatial Information Systems
 
-* More complete GDAL wrapper (or pure rust alternative). [rust-gdal](https://github.com/georust/rust-gdal) ⭐ 455 | 🐛 65 | 🌐 Rust | 📅 2026-07-06 is an incomplete wrapper so needs work.
+* More complete GDAL wrapper (or pure rust alternative). [rust-gdal](https://github.com/georust/rust-gdal) ⭐ 456 | 🐛 65 | 🌐 Rust | 📅 2026-07-06 is an incomplete wrapper so needs work.
 * OGC standards - multiple crates for standards for encoding, sharing or manipulating geospatial data [link](http://www.opengeospatial.org/standards). There's already a crate for [GeoJSON](https://crates.io/crates/geojson) but none of the others appear to have crates.
 
 ## Machine Learning
@@ -166,7 +166,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * Otherwise, OpenOffice and Microsoft Office
 * There is currently no library to convert between different office document formats.
 * The [`beancount` data format](https://docs.google.com/document/d/1wAMVrKIA2qtRGmoVDSUBJGmYZSygUaR0uOMW1GV3YE0/edit) has no parser or emitter libraries yet.
-  * Bindings to the [Python implementation of beancount](https://github.com/beancount/beancount) ⭐ 6,065 | 🐛 248 | 🌐 Python | 📅 2026-08-23 do not yet exist.
+  * Bindings to the [Python implementation of beancount](https://github.com/beancount/beancount) ⭐ 6,069 | 🐛 249 | 🌐 Python | 📅 2026-08-23 do not yet exist.
   * An [implementation of Beancount bindings, parser, and emitter in Rust](https://github.com/twilco/beancount) ⭐ 88 | 🐛 7 | 🌐 Rust | 📅 2026-06-10 is currently WIP, and contributors have been requested.
   * A builder interface for a higher-level emission API would also be nice.
 * The [RData](https://www.loc.gov/preservation/digital/formats/fdd/fdd000470.shtml) file format does not have a parser or emitter yet.
@@ -183,7 +183,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 ## Rust Toolchain
 
 * A **stable** Rust interpreter does not yet exist, which would made code exploration easier.
-  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,646 | 🐛 192 | 🌐 Rust | 📅 2026-10-10 seems to be a step in the right direction -- it just needs some love!
+  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,650 | 🐛 193 | 🌐 Rust | 📅 2026-10-11 seems to be a step in the right direction -- it just needs some love!
 * No debugging experience offers integration with `rustdoc`, which would
 * A rustdoc backend for generating [zeal](https://zealdocs.org/)/
   [dash](https://kapeli.com/dash) docsets is missing.
@@ -200,7 +200,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ### Google API
 
-* Generation of Google bindings using [`googleapis`](https://github.com/googleapis/googleapis) ⭐ 8,769 | 🐛 51 | 🌐 Starlark | 📅 2026-10-09 and gRPC would be more performant than using JSON web requests to the Google API, as with [`google-apis-rs` service](http://byron.github.io/google-apis-rs/).
+* Generation of Google bindings using [`googleapis`](https://github.com/googleapis/googleapis) ⭐ 8,772 | 🐛 51 | 🌐 Starlark | 📅 2026-10-09 and gRPC would be more performant than using JSON web requests to the Google API, as with [`google-apis-rs` service](http://byron.github.io/google-apis-rs/).
 * There is room for more idiomatic APIs for Google in general. [`google-apis-rs`](http://byron.github.io/google-apis-rs/)  uses the [Google Discovery service](https://developers.google.com/discovery) to expose the vast majority of Google Services, but they can be difficult to grok for beginners or someone unfamiliar with Google APIs in general.
 
 ### XML
@@ -222,4 +222,4 @@ For more feature and performance comparisons for existing Rust XML crates, see [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

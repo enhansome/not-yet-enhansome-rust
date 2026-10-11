@@ -144,11 +144,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-09T17:10:39Z",
-                "open_issues": 455,
+                "last_commit": "2026-10-11T08:23:37Z",
+                "open_issues": 448,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33408,
+                "stars": 33410,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T01:47:16Z",
-                "open_issues": 3458,
+                "last_commit": "2026-10-11T08:11:24Z",
+                "open_issues": 3465,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48821,
+                "stars": 48859,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,11 +264,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-09T18:07:16Z",
+                "last_commit": "2026-10-10T16:36:53Z",
                 "open_issues": 59,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9580,
+                "stars": 9584,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -331,7 +331,7 @@
             "id": 25321332,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2021-09-04T21:35:55Z",
+            "last_commit": "2026-10-11T05:51:29Z",
             "open_issues": 8,
             "owner": "PistonDevelopers",
             "repo": "gfx_voxel",
@@ -362,7 +362,7 @@
             "open_issues": 65,
             "owner": "georust",
             "repo": "gdal",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "gdal",
               "geospatial",
@@ -512,10 +512,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-08-23T20:17:45Z",
-                    "open_issues": 248,
+                    "open_issues": 249,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6065,
+                    "stars": 6069,
                     "topics": [
                       "beancount"
                     ]
@@ -577,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T07:36:40Z",
-                "open_issues": 192,
+                "last_commit": "2026-10-11T08:23:03Z",
+                "open_issues": 193,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6646,
+                "stars": 6650,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -646,7 +646,7 @@
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8769,
+                "stars": 8772,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:15:19.406Z",
+    "last_updated": "2026-10-11T08:30:41.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
