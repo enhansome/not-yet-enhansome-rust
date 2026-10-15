@@ -144,11 +144,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-14T07:10:29Z",
-                "open_issues": 426,
+                "last_commit": "2026-10-14T09:16:45Z",
+                "open_issues": 425,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33446,
+                "stars": 33417,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T19:38:07Z",
-                "open_issues": 3517,
+                "last_commit": "2026-10-15T03:52:59Z",
+                "open_issues": 3498,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48984,
+                "stars": 49012,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,11 +264,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:25:39Z",
+                "last_commit": "2026-10-14T16:19:25Z",
                 "open_issues": 59,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9591,
+                "stars": 9594,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -358,7 +358,7 @@
             "id": 18332499,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-13T17:08:17Z",
+            "last_commit": "2026-10-14T09:20:48Z",
             "open_issues": 67,
             "owner": "georust",
             "repo": "gdal",
@@ -394,7 +394,7 @@
             "open_issues": 48,
             "owner": "sparsemat",
             "repo": "sprs",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "rust-library",
               "sparse-linear-systems",
@@ -451,7 +451,7 @@
                 "id": 391214408,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-13T07:39:17Z",
+                "last_commit": "2026-10-14T16:33:10Z",
                 "open_issues": 49,
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
@@ -515,7 +515,7 @@
                     "open_issues": 249,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6080,
+                    "stars": 6086,
                     "topics": [
                       "beancount"
                     ]
@@ -577,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T09:35:58Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-15T06:29:47Z",
+                "open_issues": 197,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6652,
+                "stars": 6654,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -642,11 +642,11 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T23:07:59Z",
+                "last_commit": "2026-10-14T23:00:23Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8777,
+                "stars": 8778,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T07:17:55.603Z",
+    "last_updated": "2026-10-15T07:09:19.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
