@@ -94,8 +94,8 @@
             "id": 313639420,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T12:27:17Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-22T23:32:56Z",
+            "open_issues": 25,
             "owner": "Atostek",
             "repo": "RustDDS",
             "stars": 466,
@@ -144,11 +144,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-21T21:08:32Z",
-                "open_issues": 439,
+                "last_commit": "2026-10-22T12:33:11Z",
+                "open_issues": 440,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33481,
+                "stars": 33489,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T23:02:52Z",
-                "open_issues": 3494,
+                "last_commit": "2026-10-23T06:57:16Z",
+                "open_issues": 3507,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 49200,
+                "stars": 49215,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,11 +264,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-21T19:23:53Z",
+                "last_commit": "2026-10-22T20:02:19Z",
                 "open_issues": 60,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9609,
+                "stars": 9614,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -394,7 +394,7 @@
             "open_issues": 48,
             "owner": "sparsemat",
             "repo": "sprs",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "rust-library",
               "sparse-linear-systems",
@@ -515,7 +515,7 @@
                     "open_issues": 247,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6108,
+                    "stars": 6110,
                     "topics": [
                       "beancount"
                     ]
@@ -577,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T06:51:15Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-23T06:54:43Z",
+                "open_issues": 204,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6672,
+                "stars": 6675,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -642,11 +642,11 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T18:28:26Z",
+                "last_commit": "2026-10-22T21:50:59Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8793,
+                "stars": 8794,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:19:02.620Z",
+    "last_updated": "2026-10-23T07:12:33.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
