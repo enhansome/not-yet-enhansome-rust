@@ -94,7 +94,7 @@
             "id": 313639420,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T07:08:12Z",
+            "last_commit": "2026-10-27T06:37:16Z",
             "open_issues": 25,
             "owner": "Atostek",
             "repo": "RustDDS",
@@ -144,11 +144,11 @@
                 "id": 67836789,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-26T07:01:05Z",
-                "open_issues": 444,
+                "last_commit": "2026-10-26T08:56:12Z",
+                "open_issues": 441,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33518,
+                "stars": 33526,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T05:16:35Z",
-                "open_issues": 3518,
+                "last_commit": "2026-10-27T07:18:25Z",
+                "open_issues": 3498,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 49277,
+                "stars": 49312,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,11 +264,11 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-24T17:46:44Z",
+                "last_commit": "2026-10-26T19:03:39Z",
                 "open_issues": 60,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
-                "stars": 9622,
+                "stars": 9624,
                 "topics": [
                   "3d",
                   "3d-engine",
@@ -451,8 +451,8 @@
                 "id": 391214408,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-24T11:55:05Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-26T16:45:23Z",
+                "open_issues": 55,
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
                 "stars": 96,
@@ -489,7 +489,7 @@
                 "open_issues": 14,
                 "owner": "WanzenBug",
                 "repo": "rqrr",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -512,10 +512,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-08-23T20:17:45Z",
-                    "open_issues": 248,
+                    "open_issues": 249,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6117,
+                    "stars": 6122,
                     "topics": [
                       "beancount"
                     ]
@@ -577,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T22:53:04Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-26T13:04:02Z",
+                "open_issues": 200,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6689,
+                "stars": 6692,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -642,11 +642,11 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T08:02:09Z",
+                "last_commit": "2026-10-27T04:51:40Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8798,
+                "stars": 8800,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:34:55.494Z",
+    "last_updated": "2026-10-27T07:31:52.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
@@ -675,7 +675,7 @@
       "open_issues": 27,
       "owner": "not-yet-awesome-rust",
       "repo": "not-yet-awesome-rust",
-      "stars": 1419,
+      "stars": 1420,
       "topics": [
         "awesome",
         "awesome-list",
