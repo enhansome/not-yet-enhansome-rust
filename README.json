@@ -145,10 +145,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-11-21T23:44:33Z",
-                "open_issues": 437,
+                "open_issues": 439,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33763,
+                "stars": 33770,
                 "topics": [
                   "asynchronous",
                   "networking",
@@ -207,7 +207,7 @@
                 "open_issues": 0,
                 "owner": "godot-rust",
                 "repo": "gdnative",
-                "stars": 3616,
+                "stars": 3615,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -236,11 +236,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T21:34:07Z",
-                "open_issues": 3562,
+                "last_commit": "2026-11-22T20:13:36Z",
+                "open_issues": 3569,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 49925,
+                "stars": 49953,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -264,8 +264,8 @@
                 "id": 178597005,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-22T09:17:20Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-22T15:30:41Z",
+                "open_issues": 61,
                 "owner": "FyroxEngine",
                 "repo": "Fyrox",
                 "stars": 9695,
@@ -300,7 +300,7 @@
                 "open_issues": 0,
                 "owner": "amethyst",
                 "repo": "amethyst",
-                "stars": 8036,
+                "stars": 8037,
                 "topics": [
                   "engine",
                   "game-engine",
@@ -451,8 +451,8 @@
                 "id": 391214408,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-30T08:37:34Z",
-                "open_issues": 59,
+                "last_commit": "2026-11-22T16:40:10Z",
+                "open_issues": 61,
                 "owner": "minghuaw",
                 "repo": "fe2o3-amqp",
                 "stars": 97,
@@ -515,7 +515,7 @@
                     "open_issues": 249,
                     "owner": "beancount",
                     "repo": "beancount",
-                    "stars": 6194,
+                    "stars": 6201,
                     "topics": [
                       "beancount"
                     ]
@@ -577,11 +577,11 @@
                 "id": 46083140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T16:56:59Z",
-                "open_issues": 196,
+                "last_commit": "2026-11-23T10:18:05Z",
+                "open_issues": 197,
                 "owner": "rust-lang",
                 "repo": "miri",
-                "stars": 6759,
+                "stars": 6763,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:09:34.825Z"
@@ -642,11 +642,11 @@
                 "id": 32887098,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T18:56:23Z",
+                "last_commit": "2026-11-23T08:21:30Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "googleapis",
-                "stars": 8841,
+                "stars": 8843,
                 "topics": [
                   "protocol-buffers"
                 ]
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T09:30:59.912Z",
+    "last_updated": "2026-11-23T10:29:48.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.",
