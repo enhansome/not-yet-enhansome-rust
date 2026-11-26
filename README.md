@@ -74,7 +74,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ## Computer Vision
 
-* Piston has [`imageproc`](https://github.com/PistonDevelopers/imageproc) ⭐ 991 | 🐛 84 | 🌐 Rust | 📅 2026-10-31 based on [`image`](https://github.com/PistonDevelopers/image) ⭐ 5,919 | 🐛 249 | 🌐 Rust | 📅 2026-11-11, but in their words, "This is very much a work in progress".
+* Piston has [`imageproc`](https://github.com/PistonDevelopers/imageproc) ⭐ 991 | 🐛 84 | 🌐 Rust | 📅 2026-10-31 based on [`image`](https://github.com/PistonDevelopers/image) ⭐ 5,919 | 🐛 250 | 🌐 Rust | 📅 2026-11-11, but in their words, "This is very much a work in progress".
 * Some work has been done to create OpenCV bindings in [`cv-rs`](https://github.com/nebgnahz/cv-rs) ⭐ 204 | 🐛 19 | 🌐 Rust | 📅 2021-06-13 as well as automatically generating bindings like [`opencv-rust`](https://github.com/kali/opencv-rust/) ⭐ 2,503 | 🐛 15 | 🌐 Rust | 📅 2026-11-09. Neither are very complete.
 
 ## Data processing
@@ -82,7 +82,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 * ~~DDS library [wiki](https://en.wikipedia.org/wiki/Data_Distribution_Service)~~ [`jhelovuo/RustDDS`](https://github.com/jhelovuo/RustDDS) ⭐ 466 | 🐛 35 | 🌐 Rust | 📅 2026-11-17 and [`s2e-systems/dust-dds`](https://github.com/s2e-systems/dust-dds) ⭐ 172 | 🐛 19 | 🌐 Rust | 📅 2026-11-20 now exist!
 * ~~[HDF5](https://en.wikipedia.org/wiki/Hierarchical_Data_Format) (see also [Wikipedia](https://support.hdfgroup.org/HDF5/) and [this Reddit post](https://www.reddit.com/r/rust/comments/7r30r3/maintained_crate_for_hdf5_bindings/))~~ A stable version of [`hdf5`](https://github.com/aldanor/hdf5-rust) ⭐ 350 | 🐛 57 | 🌐 Rust | 📅 2024-08-08 crate has been released and is now [available](https://crates.io/crates/hdf5) on crates.io.
 * A good stream processing pipeline with back pressure doesn't yet exist for an asynchronous data processing pipeline
-  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 33,792 | 🐛 436 | 🌐 Rust | 📅 2026-11-24 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,945 | 🐛 284 | 🌐 Rust | 📅 2026-11-18 may be interesting components to use when building this.
+  * [`tokio`](https://github.com/tokio-rs/tokio) ⭐ 33,804 | 🐛 438 | 🌐 Rust | 📅 2026-11-24 and [`futures`](https://github.com/rust-lang-nursery/futures-rs) ⭐ 5,946 | 🐛 284 | 🌐 Rust | 📅 2026-11-18 may be interesting components to use when building this.
   * [RxRust](https://github.com/ReactiveX/RxRust) ⭐ 495 | 🐛 3 | 🌐 Rust | 📅 2015-01-30 is an older attempt to implement this according to the [reactive streams](http://www.reactive-streams.org/#the-problem) model -- it currently seems closest to this use case.
   * New features soon to come in Rust like `impl Trait` will probably make developing something like this easier to develop and use.
 * ~~Bindings for [pandoc](https://pandoc.org/)~~ A [`pandoc`](https://crates.io/crates/pandoc) crate now exists with CLI bindings!
@@ -116,8 +116,8 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * [Unreal Engine](https://www.unrealengine.com/) has had [some prior work](https://ejmahler.github.io/rust_in_unreal/) accessible by making an Unreal account, but nothing has been made freely public at time of writing.
   * [Unity3D](https://unity.com/) currently has no published crates for Rust interop.
 * No mature game engine written in pure Rust exists yet.
-  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 49,990 | 🐛 3,563 | 🌐 Rust | 📅 2026-11-25
-  * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,699 | 🐛 60 | 🌐 Rust | 📅 2026-11-24 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,699 | 🐛 60 | 🌐 Rust | 📅 2026-11-24, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 324 | 🐛 10 | 🌐 Rust | 📅 2026-11-14 built using it.
+  * [Bevy](https://bevyengine.org/) is a new project built with the learnings of the Amethyst project. See the [roadmap here.](https://github.com/bevyengine/bevy/projects/1) ⭐ 50,017 | 🐛 3,557 | 🌐 Rust | 📅 2026-11-25
+  * [Fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,703 | 🐛 60 | 🌐 Rust | 📅 2026-11-25 is a 3D + 2D game engine which includes a [full graphical editor](https://github.com/FyroxEngine/Fyrox#editor) ⭐ 9,703 | 🐛 60 | 🌐 Rust | 📅 2026-11-25, and an example [3D FPS game](https://github.com/mrDIMAS/StationIapetus) ⭐ 324 | 🐛 10 | 🌐 Rust | 📅 2026-11-14 built using it.
   * ~~[Amethyst](https://github.com/amethyst/amethyst) ⚠️ Archived is active and [has a roadmap](https://amethyst.rs/roadmap) for becoming production-ready.~~ Halted development.
   * Part of a mature solution will need to include a rich and robust editor. Examples can include:
     * [Unreal Editor](https://docs.unrealengine.com/en-US/Engine/Editor/index.html)
@@ -130,7 +130,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 
 ## Geospatial Information Systems
 
-* More complete GDAL wrapper (or pure rust alternative). [rust-gdal](https://github.com/georust/rust-gdal) ⭐ 458 | 🐛 71 | 🌐 Rust | 📅 2026-10-14 is an incomplete wrapper so needs work.
+* More complete GDAL wrapper (or pure rust alternative). [rust-gdal](https://github.com/georust/rust-gdal) ⭐ 458 | 🐛 72 | 🌐 Rust | 📅 2026-10-14 is an incomplete wrapper so needs work.
 * OGC standards - multiple crates for standards for encoding, sharing or manipulating geospatial data [link](http://www.opengeospatial.org/standards). There's already a crate for [GeoJSON](https://crates.io/crates/geojson) but none of the others appear to have crates.
 
 ## Machine Learning
@@ -166,7 +166,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
   * Otherwise, OpenOffice and Microsoft Office
 * There is currently no library to convert between different office document formats.
 * The [`beancount` data format](https://docs.google.com/document/d/1wAMVrKIA2qtRGmoVDSUBJGmYZSygUaR0uOMW1GV3YE0/edit) has no parser or emitter libraries yet.
-  * Bindings to the [Python implementation of beancount](https://github.com/beancount/beancount) ⭐ 6,203 | 🐛 249 | 🌐 Python | 📅 2026-08-23 do not yet exist.
+  * Bindings to the [Python implementation of beancount](https://github.com/beancount/beancount) ⭐ 6,209 | 🐛 249 | 🌐 Python | 📅 2026-08-23 do not yet exist.
   * An [implementation of Beancount bindings, parser, and emitter in Rust](https://github.com/twilco/beancount) ⭐ 88 | 🐛 7 | 🌐 Rust | 📅 2026-06-10 is currently WIP, and contributors have been requested.
   * A builder interface for a higher-level emission API would also be nice.
 * The [RData](https://www.loc.gov/preservation/digital/formats/fdd/fdd000470.shtml) file format does not have a parser or emitter yet.
@@ -183,7 +183,7 @@ You can jump right into editing this file [here](https://github.com/not-yet-awes
 ## Rust Toolchain
 
 * A **stable** Rust interpreter does not yet exist, which would made code exploration easier.
-  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,770 | 🐛 191 | 🌐 Rust | 📅 2026-11-25 seems to be a step in the right direction -- it just needs some love!
+  * [`miri`](https://github.com/rust-lang/miri) ⭐ 6,775 | 🐛 192 | 🌐 Rust | 📅 2026-11-26 seems to be a step in the right direction -- it just needs some love!
 * No debugging experience offers integration with `rustdoc`, which would
 * A rustdoc backend for generating [zeal](https://zealdocs.org/)/
   [dash](https://kapeli.com/dash) docsets is missing.
@@ -222,4 +222,4 @@ For more feature and performance comparisons for existing Rust XML crates, see [
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
